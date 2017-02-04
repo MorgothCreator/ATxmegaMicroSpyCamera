@@ -1,0 +1,38 @@
+/*
+ * config.h
+ *
+ * Created: 7/22/2016 5:24:46 PM
+ *  Author: John Smith
+ */ 
+
+
+#ifndef CONFIG_H_
+#define CONFIG_H_
+
+#define F_CPU	32000000
+//#define USE_SPI0	SPIC//SD_CARD
+#define USE_UART0	USARTC0//SD_CARD
+#define USE_UART2	USARTD0//COMMUNICATION BUS
+#define USE_TWI0	TWIC//SENSOR_SETUP
+
+#define UART_SPEED		1000000
+#define UART_TX_TIMEOUT	100000
+
+
+
+#define SENSOR_DATA_PORT	PORTA
+#define SENSOR_PCLK_PORT	PORTD
+#define SENSOR_PCLK_PIN		7
+#define SENSOR_VXCLK_PORT	PORTR
+#define SENSOR_VXCLK_PIN	0
+#define SENSOR_VSYNK_PORT	PORTC
+#define SENSOR_VSYNK_PIN	2
+#define SENSOR_HREF_PORT	PORTC
+#define SENSOR_HREF_PIN		3
+
+#define CARD_CS_PORT		PORTC
+#define CARD_CS_PIN			4
+
+
+
+#endif /* CONFIG_H_ */

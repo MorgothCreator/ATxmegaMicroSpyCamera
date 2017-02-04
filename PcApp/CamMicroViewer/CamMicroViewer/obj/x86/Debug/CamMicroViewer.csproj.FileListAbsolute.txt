@@ -1,0 +1,16 @@
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\bin\Debug\CamMicroViewer.exe
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\bin\Debug\CamMicroViewer.pdb
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.Form1.resources
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.Properties.Resources.resources
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.csproj.GenerateResource.Cache
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.exe
+c:\users\john smith\documents\visual studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.pdb
+C:\Users\John Smith\Documents\Visual Studio 2010\Projects\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.csprojResolveAssemblyReference.cache
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.exe
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.pdb
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.csprojResolveAssemblyReference.cache
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.Form1.resources
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.Properties.Resources.resources
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\obj\x86\Debug\CamMicroViewer.csproj.GenerateResource.Cache
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\bin\Debug\CamMicroViewer.exe
+Z:\git\OchiMicro\PcApp\CamMicroViewer\CamMicroViewer\bin\Debug\CamMicroViewer.pdb
