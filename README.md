@@ -1,4 +1,7 @@
 # ATxmegaMicroSpyCamera
+
+# The project has been moved here https://morgothdisk.com:30001/explore/projects
+
 DIY Micro spy camera 
 
 This project is intended to make most tiny DIY spy camera with an ATxmega32E5 microcontroller.
