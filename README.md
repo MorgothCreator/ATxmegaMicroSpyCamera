@@ -1,6 +1,6 @@
 # ATxmegaMicroSpyCamera
 
-# The project has been moved here https://morgothdisk.com
+# The project has been moved here https://git.morgothdisk.com/explore/projects
 
 DIY Micro spy camera 
 
